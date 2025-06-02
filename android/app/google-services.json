@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261144821321",
+    "project_id": "dotdash-reflex",
+    "storage_bucket": "dotdash-reflex.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261144821321:android:f0d80fd69ccde637000998",
+        "android_client_info": {
+          "package_name": "dotdash.reflex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJdpg3ZgNdMO80a-a6Aq6wM1nJmcHS2iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
