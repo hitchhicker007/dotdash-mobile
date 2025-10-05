@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-To contribute to this project for Hacktoberfest, make sure you check the instructions in contribute.md file
+To contribute to this project for Hacktoberfest, make sure you check the instructions in [contributing.md](https://github.com/hitchhicker007/dotdash-mobile/blob/main/contributing.md) file
 
 ## Getting Started
 
