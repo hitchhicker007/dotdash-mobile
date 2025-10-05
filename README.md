@@ -4,6 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
+To contribute to this project for Hacktoberfest, make sure you check the instructions in contribute.md file
+
+## Getting Started
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
